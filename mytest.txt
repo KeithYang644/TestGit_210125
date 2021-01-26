@@ -2,4 +2,4 @@ testTortoiseGit-add-1
 aaa
 AAA
 bbb
-ccc
+cccCCC
